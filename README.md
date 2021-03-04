@@ -1,3 +1,6 @@
+# About This Fork
+This is a fork of ATSAssistMod to support minecraft 1.12.2
+
 # ATSAssistMod
 [![MCVer](https://img.shields.io/badge/Minecraft-1.7.10-brightgreen)](https://www.minecraft.net/)
 [![ForgeVer](https://img.shields.io/badge/Forge-10.13.4.1614-important)](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html)
